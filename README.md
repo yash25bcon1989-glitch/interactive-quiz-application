@@ -49,5 +49,9 @@ The application displays one question at a time, checks the selected answer, cal
 - Dynamic HTML elements.
 - Score calculation and state management.
 
+## Live Application
+Try the quiz online: [Open Interactive Quiz Application](https://yash25bcon1989-glitch.github.io/interactive-quiz-application/)
+The application is hosted using GitHub Pages.
+
 ## Conclusion
 This project demonstrates how HTML, CSS, and JavaScript can be combined to build a functional and interactive quiz application.
